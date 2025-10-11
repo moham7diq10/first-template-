@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moham7diq10.github.io/first-template-/sitemap.xml
